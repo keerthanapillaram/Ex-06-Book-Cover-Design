@@ -6,10 +6,10 @@ REFERENCE NUMBER : 23011895
 
 DEPARTMENT : AIML
 
-AIM :
+# AIM :
 To design a book cover page using HTML and CSS.
 
-PROCEDURE :
+# PROCEDURE :
 STEP 1 : HTML Structure
 Ensure proper HTML structure with , , and tags.
 
@@ -28,7 +28,8 @@ Style author image (img) with fixed width, height, and margin.
 STEP 7 : End the HTML structure
 Run the code.
 
-CODE :
+# CODE :
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -152,9 +153,9 @@ img {
         
     
 </html>
+```
+# OUTPUT :
 
-OUTPUT :
-Alt text
 
-RESULT :
+# RESULT :
 The book cover design has been successfully created using HTML and CSS.
